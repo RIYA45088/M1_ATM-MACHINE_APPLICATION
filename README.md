@@ -15,3 +15,20 @@
 -   Limitations on cash withdrawl
 -   Are Costly For The Users
 -   Lack of Personal services
+
+# 4 W's and 1 H
+
+## Who
+It is restricted only to the person who knows the PIN. Thus, if the customers keep the PIN confidential, no one other than the customer can use the ATM
+
+## What
+It's an automatic teller machine to accepts deposits and dispenses cash.
+
+## When
+It is available 24X7, 365 days.
+
+## Where
+It is available around the world.
+
+## How
+The application was developed in C language to prevent the complexity and to make it simple. 
