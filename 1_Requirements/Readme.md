@@ -24,8 +24,8 @@
 - Open or withdraw a fixed deposit
 
 ## Threats
--Weak Physical Locks
--Insecure Network Communication
+- Weak Physical Locks
+- Insecure Network Communication
 -Without strong disk encryption, criminals can steal 
 
 ## Cost and Features
