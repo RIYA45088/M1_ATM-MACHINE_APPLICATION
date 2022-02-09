@@ -6,7 +6,7 @@
 
 # SWOT Analysis
 
-## STRENGTH
+## Strength
 -   Easy and faster to access 
 -   provides 24 hrs services without any staffs
 -   offer wide range of services
@@ -14,7 +14,7 @@
 -   easier to access
 -   Access to hard Cash Anywhere at Anytime
  
- ## WEAKNESS
+ ## Weakness
 -   Limitations on cash withdrawl
 -   Are Costly For The Users
 -   Lack of Personal services
