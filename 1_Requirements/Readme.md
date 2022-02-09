@@ -21,7 +21,6 @@
 -   Easily Accessable
 -   Low  in Cost
 
-## Defining our System
 
 
 ## SWOT Analysis
