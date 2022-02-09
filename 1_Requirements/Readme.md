@@ -18,13 +18,19 @@
 -   Limitations on cash withdrawl
 -   Are Costly For The Users
 -   Lack of Personal services
- 
+
+## Opportunities
+- Deposit cash
+- Open or withdraw a fixed deposit
+
+## Threats
+-Weak Physical Locks
+-Insecure Network Communication
+-Without strong disk encryption, criminals can steal 
+
 ## Cost and Features
 -   Easily Accessable
 -   Low  in Cost
-
-## SWOT Analysis
--
 
 
 # 4 W's and 1 H
