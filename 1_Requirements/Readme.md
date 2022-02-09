@@ -5,7 +5,7 @@
  When a user needs to withdraw cash, they can enter their PIN number (personal identification number) and the amount to be withdrawn will be displayed in the form of 100s, 500s and 1000s. Once their withdrawn was successful, the amount will be debited in their account.
 
 ### Advantages
--   Easy and faster access 
+-   Easy and faster to access 
 -   provides 24 hrs services without any staffs
 -   offer wide range of services
 -   Cheaper to Maintain
@@ -20,9 +20,6 @@
 ## Cost and Features
 -   Easily Accessable
 -   Low  in Cost
-
-## Defining our System
-
 
 ## SWOT Analysis
 
