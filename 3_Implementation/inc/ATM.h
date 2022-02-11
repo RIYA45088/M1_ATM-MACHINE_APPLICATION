@@ -76,8 +76,6 @@ float withdrawMoney(float balance) {
 void exitMenu() {
     printf("--------------Take your receipt!!!------------------\n");
     printf("-----Thank you for using ATM Banking Machine!!!-----\n");
-
-
 }
 
 void faultMessage() {;
