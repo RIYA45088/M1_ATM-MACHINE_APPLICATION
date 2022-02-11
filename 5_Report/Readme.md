@@ -71,7 +71,7 @@ The application was developed in C language to prevent the complexity and to mak
 | HR02 | Deposit |Implemented  |
 | HR03 | Balance enguiry | Implemented  |
 | HR04 | Cash withdraw | Implemented |
-| HR05 | Graphical User Interface |Implemented  |
+| HR05 | Graphical User Interface |Future  |
 
 
 ## Low Level Requirements 
@@ -83,7 +83,7 @@ The application was developed in C language to prevent the complexity and to mak
  LR03 | Output screen will display the overall balance  | HR03|Implemented  |
 | LR04 | Read user input to withdraw entered amount exactly | HR04| Implemented |
 | LR05 |Should display final updated balance after credit or debit | HR02| Implemented |
-| LR06 |A clean graphical user interface with all required buttons for ease of use  | HR05| Implemented |
+| LR06 |A clean graphical user interface with all required buttons for ease of use  | HR05| Future |
 
 
 
