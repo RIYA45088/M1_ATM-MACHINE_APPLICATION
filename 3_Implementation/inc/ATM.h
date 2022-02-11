@@ -3,7 +3,6 @@
 #include <stdbool.h>
 #include <math.h>
 
-
 void logins();
 void mainMenu();
 void checkBankBalance(float balance);
@@ -20,13 +19,11 @@ void mainMenu() {
     printf("< 2 >  Deposit\n");
     printf("< 3 >  Withdraw\n");
     printf("< 4 >  Exit\n\n");
-
 }
 
 void checkBankBalance(float balance) {
     printf("You Choose to See your Balance\n");
     printf("\n\n****Your Available Balance is:   ₹%.2f\n\n", balance);
-
 }
 
 float depositMoney(float balance) {
@@ -41,7 +38,6 @@ float depositMoney(float balance) {
 
     printf("\n****Your New Balance is:   ₹%.2f\n\n", balance);
     return balance;
-
 }
 
 float withdrawMoney(float balance) {
@@ -62,7 +58,7 @@ float withdrawMoney(float balance) {
         printf("\n₹₹₹₹Your withdrawing money is:  ₹%.2f\n", withdraw);
         printf("****Your New Balance is:   ₹%.2f\n\n", balance);
 
-    }
+     }
 
         else  {
 
