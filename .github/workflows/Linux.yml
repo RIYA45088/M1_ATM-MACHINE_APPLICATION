@@ -8,6 +8,6 @@ jobs:
       - uses: actions/checkout@v2
         
       - name: Install linuxcheck
-        run: sudo apt-get -y install cppcheck
+        run: sudo apt-get -y install linuxcheck
       - name: linuxcheck 
         run: linuxcheck 3_Implementation
