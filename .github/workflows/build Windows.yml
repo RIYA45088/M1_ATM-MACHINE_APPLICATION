@@ -1,0 +1,19 @@
+name: Build Windows
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run:  gcc main.c -o ATM Machine Program.exe
+    - name: Run
+      run: .\main.exe
