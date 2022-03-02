@@ -1,4 +1,4 @@
-name: Linux C/C++ CI
+name: Build-Linux
 
 on:
   push:
@@ -13,7 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc main.c -o main.exe
-    - name: Run
-      run: ./main.exe
+    - name: make
+      run: make run -C 3_Implementation 
