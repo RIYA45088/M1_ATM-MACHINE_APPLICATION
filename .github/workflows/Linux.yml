@@ -1,0 +1,13 @@
+name: linuxcheck-action
+on: [push]
+jobs:
+  build:
+    name: linuxcheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        
+      - name: Install linuxcheck
+        run: sudo apt-get -y install cppcheck
+      - name: linuxcheck 
+        run: linuxcheck 3_Implementation
