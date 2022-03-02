@@ -6,16 +6,16 @@
 
 
 
-
+//Main Code
 int main() {
-    
+    //Local Declarations
     int option;
     float balance = 15000.00;
     int choose;
 
     bool again = true;
 
- 
+    // insert code here...
 
     while (again) {
     mainMenu();
@@ -28,24 +28,24 @@ int main() {
         switch (option) {
             case 1:
             	system("CLS");
-                checkBankBalance(balance);
+                checkBalance(balance);
                 break;
             case 2:
             	system("CLS");
-                balance = depositMoney(balance);
+                balance = moneyDeposit(balance);
                 break;
             case 3:
             	system("CLS");
-                balance = withdrawMoney(balance);
+                balance = moneyWithdraw(balance);
                 break;
 
             case 4:
             	system("CLS");
-                exitMenu();
+                menuExit();
                 return 0;
 
             default:
-                faultMessage();
+                errorMessage();
                 break;
         }
 
@@ -61,7 +61,7 @@ int main() {
 
         if (choose == 2) {
             again = false;
-            exitMenu();
+            menuExit();
 
         }
 
@@ -69,8 +69,8 @@ int main() {
 
 
     return 0;
-}
+}//main code
 
 
 
-
+//Functions
