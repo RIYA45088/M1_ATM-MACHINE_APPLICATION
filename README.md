@@ -21,6 +21,30 @@
 -   Are Costly For The Users
 -   Lack of Personal services
 
+# SWOT Analysis
+
+## Strength
+-   Easy and faster to access 
+-   provides 24 hrs services without any staffs
+-   offer wide range of services
+-   Cheaper to Maintain
+-   easier to access
+-   Access to hard Cash Anywhere at Anytime
+ 
+ ## Weakness
+-   Limitations on cash withdrawl
+-   Are Costly For The Users
+-   Lack of Personal services
+
+## Opportunities
+- Deposit cash
+- Open or withdraw a fixed deposit
+
+## Threats
+- Weak Physical Locks
+- Insecure Network Communication
+-Without strong disk encryption, criminals can steal 
+
 # 4 W's and 1 H
 
 ## Who
